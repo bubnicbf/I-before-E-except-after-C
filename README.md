@@ -9,15 +9,13 @@ Using the word list from http://www.puzzlers.org/pub/wordlists/unixdict.txt, che
 
 For example:
 
-| -- | ----------------------------------------------:|
-| ie | believe, fierce, collie, die, friend           |
-| ei | after c in deceive, ceiling, receipt, ceilidh  |
+  - ie     believe, fierce, collie, die, friend
+  - ei     after c in deceive, ceiling, receipt, ceilidh
 
 The rule is very well known; Edward Carney calls it "this supreme, and for many people solitary, spelling rule".[1] However, the short form quoted above has many common exceptions; for example:
 
-| -- | :------------------------------------------------------------------: |
-| ie | after c: species, science, sufficient                                | 
-| ei | not preceded by c: seize, weird, vein, their, foreign, feisty, heist |
+  - ie     after c: species, science, sufficient
+  - ei     not preceded by c: seize, weird, vein, their, foreign, feisty, heist
 
 If both sub-phrases are plausible then the original phrase can be said to be plausible.
 Something is plausible if the number of words having the feature is more than two times the number of words having the opposite feature (where feature is 'ie' or 'ei' preceded or not by 'c' as appropriate).
